@@ -9,7 +9,7 @@ wildfly:
      titleBody: "foo"
      directories:
        - foo
-     notify: [petrberan, whatever]
+     notify: [petrberan, fgdjkfgdjklfgdklfgdklfgdkl]
  format:
    title-check:
      pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"

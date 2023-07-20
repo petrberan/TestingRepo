@@ -1,8 +1,8 @@
 wildfly:
  rules:
    - id: test
-      titleBody: "test"
-      notify: [petrberan]
+     titleBody: "test"
+     notify: [petrberan]
  format:
    title-check:
      pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"

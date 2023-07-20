@@ -1,7 +1,7 @@
 wildfly:
  rules:
-   - id: test
-     titleBody: "test"
+   - id: README
+     titleBody: "README"
      notify: [petrberan]
  format:
    title-check:

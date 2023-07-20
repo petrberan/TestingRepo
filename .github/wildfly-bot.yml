@@ -4,12 +4,12 @@ wildfly:
      titleBody: "asd"
      directories:
        - asd
-     notify: [petrberan]
+     notify: [hdhfghfghfghfgh]
    - id: foo
      titleBody: "foo"
      directories:
        - foo
-     notify: [petrberan, fgdjkfgdjklfgdklfgdklfgdkl]
+     notify: [hdhfghfghfghfgh, fgdjkfgdjklfgdklfgdklfgdkl]
  format:
    title-check:
      pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"

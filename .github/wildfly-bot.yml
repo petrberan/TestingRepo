@@ -1,9 +1,15 @@
 wildfly:
  rules:
-   - id: README
-     titleBody: "README"
+   - id: asd
+     titleBody: "asd"
      directories:
+       - asd
      notify: [petrberan]
+   - id: foo
+     titleBody: "foo"
+     directories:
+       - foo
+     notify: [petrberan, whatever]
  format:
    title-check:
      pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"

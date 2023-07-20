@@ -2,6 +2,7 @@ wildfly:
  rules:
    - id: README
      titleBody: "README"
+     directories:
      notify: [petrberan]
  format:
    title-check:
